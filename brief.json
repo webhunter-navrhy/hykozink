@@ -1,0 +1,68 @@
+{
+ "firma": "HYKOZINK spol. s r.o.",
+ "web_zdroj": "https://www.hykozink.sk, https://www.zinkovanie.eu (verejné stránky klienta)",
+ "jazyk": "sk",
+ "fakty": {
+  "zalozena": [
+   "1995",
+   "zinkovanie.eu úvod"
+  ],
+  "sidlo": [
+   "Piešťanská 85, 922 07 Veľké Kostoľany",
+   "zinkovanie.eu päta"
+  ],
+  "kontakt": [
+   "hykozink@hykozink.sk, +421 905 304 253, +421 902 234 253",
+   "zinkovanie.eu"
+  ],
+  "vane": [
+   "3,5 m dĺžka, 1 m šírka, 1,3 m hĺbka",
+   "zinkovanie.eu"
+  ],
+  "vrstva": [
+   "štandardne 8–25 µm, iná na požiadanie",
+   "galéria"
+  ],
+  "chromat": [
+   "modrý alebo žltý",
+   "zinkovanie"
+  ],
+  "zinkovanie": [
+   "závesové (ceny podľa počtu kusov na zavese) a hromadné v bubnoch (podľa váhy)",
+   "galéria"
+  ],
+  "laser": [
+   "SF 3015H 1500 W; oceľ 10 mm, nerez 3 mm, hliník AlMg3 4 mm, pozinkovaná oceľ 4 mm; tabuľa 3000×1500 mm, do 800 kg; presnosť ±0,05 mm; plyny dusík, kyslík; gravírovanie",
+   "rezanie"
+  ],
+  "ohybanie": [
+   "Durma AD-R 30175; 1750 kN; dĺžka 3050 mm; medzi bočnicami 2600 mm",
+   "rezanie"
+  ],
+  "postup": [
+   "odmastenie alkalickými prostriedkami, slabo kyslé zinkovacie kúpele, chromátovanie",
+   "zinkovanie"
+  ],
+  "podmienky_dielov": [
+   "bez slepých otvorov a kapilárnych spojov; bez farby, korózie, hrubých mastnôt",
+   "zinkovanie"
+  ]
+ },
+ "ceny": "Cenník len na základe dopytu (zinkovanie za kg alebo dm², rezanie podľa posúdenia). Na webe žiadne ceny.",
+ "barvy": {
+  "logo": [
+   "#1D5C9E",
+   "#F2B01E",
+   "#12222F"
+  ],
+  "poznamka": "nové logo vytvorené v tejto zákazke"
+ },
+ "chybi": [
+  "IČO / IČ DPH",
+  "fotky hotových výrobkov (čisté detaily)",
+  "certifikáty / normy",
+  "referencie klientov",
+  "mapa/GPS"
+ ],
+ "pravidlo": "Bez fotiek z výroby. Ilustrácie označiť ako ilustrácie; žiadne vymyslené reference, čísla ani certifikáty."
+}

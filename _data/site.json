@@ -1,0 +1,51 @@
+{
+  "slug": "hykozink",
+  "nazev": "HYKOZINK spol. s r.o.",
+  "url": "https://webhunter-navrhy.github.io/hykozink/",
+  "base": "/hykozink/",
+  "lang": "sk",
+  "popis": "Galvanické zinkovanie, laserové rezanie a ohraňovanie kovov vo Veľkých Kostoľanoch. Vane do 3,5 m, laser SF 3015H, modrý alebo žltý chromát.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "og.png",
+  "logo": "logo.svg",
+  "theme_color": "#12222F",
+  "typ": "LocalBusiness",
+  "ico": "",
+  "kontakt": {
+    "email": "hykozink@hykozink.sk",
+    "telefon": "+421 905 304 253",
+    "adresa": {
+      "ulice": "Piešťanská 85",
+      "psc": "922 07",
+      "mesto": "Veľké Kostoľany",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Dopyt z webu Hykozink"
+  },
+  "nav": [
+    {
+      "text": "Zinkovanie",
+      "href": "#zinkovanie"
+    },
+    {
+      "text": "Laser a ohýbanie",
+      "href": "#laser"
+    },
+    {
+      "text": "Postup",
+      "href": "#postup"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ]
+}
